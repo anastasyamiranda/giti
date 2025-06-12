@@ -21,7 +21,7 @@ Kelas x (S1 Akuntansi)
 ## 🔍 Tampilan Arbutus
 
 ### 🖼️ Arbutus 1
-![Arbutus 1](arbutus1.png)
+![Arbutus 1](arbutus1.jpg)
 
 ### 🖼️ Arbutus 2
 ![Arbutus 2](arbutus2.png)
